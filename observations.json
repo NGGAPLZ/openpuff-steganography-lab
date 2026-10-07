@@ -1,0 +1,9 @@
+{
+  "original_carrier_bytes": 391106,
+  "modified_carrier_bytes": 391110,
+  "payload_archive_bytes": 241,
+  "original_payload_sha256": "17f087ae72811b71efa28da5bb423ce4d2e56bb6afd8e847af55fb363291b973",
+  "recovered_payload_sha256": "17f087ae72811b71efa28da5bb423ce4d2e56bb6afd8e847af55fb363291b973",
+  "payload_archives_identical": true,
+  "method": "Byte comparison of supplied original and recovered files; OpenPuff was not rerun."
+}
